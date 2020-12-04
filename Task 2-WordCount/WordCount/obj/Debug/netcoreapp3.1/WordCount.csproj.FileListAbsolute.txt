@@ -1,0 +1,15 @@
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.csprojAssemblyReference.cache
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.Form1.resources
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.GenerateResource.cache
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfoInputs.cache
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.AssemblyInfo.cs
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.csproj.CoreCompileInputs.cache
+C:\Users\ariel\source\repos\WordCount\WordCount\bin\Debug\netcoreapp3.1\WordCount.exe
+C:\Users\ariel\source\repos\WordCount\WordCount\bin\Debug\netcoreapp3.1\WordCount.deps.json
+C:\Users\ariel\source\repos\WordCount\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.json
+C:\Users\ariel\source\repos\WordCount\WordCount\bin\Debug\netcoreapp3.1\WordCount.runtimeconfig.dev.json
+C:\Users\ariel\source\repos\WordCount\WordCount\bin\Debug\netcoreapp3.1\WordCount.dll
+C:\Users\ariel\source\repos\WordCount\WordCount\bin\Debug\netcoreapp3.1\WordCount.pdb
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.dll
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.pdb
+C:\Users\ariel\source\repos\WordCount\WordCount\obj\Debug\netcoreapp3.1\WordCount.genruntimeconfig.cache
