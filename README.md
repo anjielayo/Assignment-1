@@ -1,2 +1,2 @@
 # Assignment-1
-This is a repository for CEN 414 Assignment
+This is a repository for Assignment 1 and assignment 2 of CEN 414 Assignment
